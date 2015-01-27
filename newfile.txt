@@ -1,0 +1,1 @@
+text within the file newfile.txt
